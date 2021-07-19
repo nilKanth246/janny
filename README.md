@@ -1,6 +1,6 @@
-# Janny - A basic Discord moderation bot
+# Janny - A basic Discord moderation bot [Under Construction]
 
-This is bot includes basic functionalities required for a Discord moderation bot. You can clone this repo and modify the code as per your needs. 
+This is bot includes basic functionalities required for a Discord moderation bot. Feel free to clone this repo and modify the code as per your liking
 
 ## Moderation commands and features:
 

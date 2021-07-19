@@ -16,7 +16,7 @@ This is bot includes basic functionalities required for a Discord moderation bot
 
 ## Special commands:
 
-1. 8-ball
+1. 8-ball (ask)
 2. Coin flip
 3. Code formatting 
 4. Ping 

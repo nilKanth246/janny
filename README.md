@@ -12,8 +12,9 @@ This is bot includes basic functionalities required for a Discord moderation bot
 6. Autorole 
 7. Reaction roles
 8. Delete messages
+9. Help with commands
 
-## Special commands:
+## Basic and special commands:
 
 1. 8-ball
 2. Coin flip

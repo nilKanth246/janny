@@ -4,7 +4,8 @@ This is bot includes basic functionalities required for a Discord moderation bot
 
 ## Moderation commands and features:
 
-1. Kick 
+kick
+: kick <username> <reason>
 2. Ban / Unban
 3. Mute / Unmute
 4. Change username 

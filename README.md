@@ -11,6 +11,7 @@ This is bot includes basic functionalities required for a Discord moderation bot
 5. Add / Remove roles
 6. Autorole 
 7. Reaction roles
+8. Delete messages
 
 ## Special commands:
 
